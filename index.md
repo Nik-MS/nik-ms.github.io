@@ -3,4 +3,4 @@
 
 
 ## CourseKeep
-Whatever you do on CourseKeep stays on CourseKeep. I do not collect any logging data or what information you enter on the app.  All information you place within CourseKeep will only be saved locally on the device.
+Whatever you do on CourseKeep stays on CourseKeep.  All information you enter within CourseKeep will only be saved locally on the device. If you are using the TestFlight beta for CourseKeep. Diagnostics data may be collected to help solve any bug reports that you may file within the app.
