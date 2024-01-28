@@ -8,4 +8,4 @@ For more information on what Apple collects upon a crash, see the following arti
 # Additional Support
 
 Thank you for using PawtyPal! Your engagement motivates me to continue working on this passion project, and I appreciate your support! To ask questions or to request features regarding PawtyPal, please feel free to shoot an email:
-`bees-spiel-0j@icloud.com`.
+[bees-spiel-0j@icloud.com](mailto:bees-spiel-0j@icloud.com).
